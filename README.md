@@ -32,5 +32,5 @@ print('The result of the operation is {}'.format(result))
 ```
 
 ## Contributing
-This project is done by Rajesh Wanekar
+This project is done by Rajesh Wanekar.
 You can connect with me [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rajesh-wanekar-747b6b256)
